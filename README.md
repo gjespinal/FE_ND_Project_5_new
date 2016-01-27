@@ -9,4 +9,4 @@ This single-page application displays a map of coding 'corners' in Chicago--venu
 
 ##  How to use it
 Its so simple.
-Into the folder FE_ND_Project_5v2 look for the index.html file, click on it and you will see the app running.
+Into the folder FE_ND_Project_5_new look for the index.html file, click on it and you will see the app running.
